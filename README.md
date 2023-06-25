@@ -5,7 +5,7 @@
 
 - 📚 For my career, I hope to apply data science skills to the asset management industry
 
-- 📫 How to reach me: zhaodylan2@gmail.com | dylanzhao@brandeis.edu**
+- 📫 How to reach me: zhaodylan2@gmail.com | dylanzhao@brandeis.edu
 
 - ⚡ Fun fact: I run DIII Cross Country and Track & Field for my university
 
