@@ -1,13 +1,7 @@
 <h1 align="center">Greetings, I'm Dylan!</h1>
 <h3 align="center">I'm a student at Brandeis University studying Applied Math and Economics</h3>
 
-- 🌱 I’m currently learning: Python: Data Science
-
-- 📚 For my career, I hope to apply data science skills to the asset management industry
-
 - 📫 How to reach me: zhaodylan2@gmail.com | dylanzhao@brandeis.edu
-
-- ⚡ Fun fact: I run DIII Cross Country and Track & Field for my university
 
 - 👨‍👩‍👦 LinkedIn: https://www.linkedin.com/in/dylanz/ 
 
